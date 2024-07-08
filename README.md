@@ -31,10 +31,10 @@ The dataset used for this analysis is named supply_chain_data.csv. The dataset c
 *Discount:* Discount applied
 *Profit:* Profit made from the order
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+# Acknowledgments
 This project was inspired by the need to improve supply chain efficiency and performance.
 Special thanks to the contributors and the open-source community for their valuable tools and libraries.
 
