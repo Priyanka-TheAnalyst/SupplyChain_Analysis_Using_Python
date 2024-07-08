@@ -1,5 +1,6 @@
 # Supply Chain Analysis Using Python
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechpacker.com%2Fblog%2Fdesign%2Fultimate-guide-to-fashion-supply-chain%2F&psig=AOvVaw2QRX1EusDjaML5121YPSi1&ust=1720530553791000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjQ2prCl4cDFQAAAAAdAAAAABAE
+![image](https://github.com/Priyanka-TheAnalyst/SupplyChain_Analysis_Using_Python/assets/129527829/58b6a962-402e-424a-8ee7-efc1b758839b)
+
 
 
 
